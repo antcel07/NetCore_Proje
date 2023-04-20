@@ -1,4 +1,8 @@
-# NetCore_Proje![e1](https://user-images.githubusercontent.com/93091784/233370395-8cda0f54-2184-42f8-9fb3-bc47b17a9c42.PNG)
+# NetCore_Proje
+Merhaba bu NetCore projesinde bir AspNet Core 5.0 üzerinde proje inşaa edilmiştir.Bu projede kullandığım mimariler
+Entity Framework Core,Çok katmanlı mimari,Repository Design Pattern,Fluent Validation,Restful Api,Deploy,Mvc,Charts,Ajax,Identity,Rolleme,Boostrap gibi konu başlıklarına işlenmiştir.Bu projeyi codefirst yaklaşımıyla yapılmış olup katmanlı mimari ile yapısını keşfetmeye özen gösterdim.
+Projeme ait ekran görüntüleri
+![e1](https://user-images.githubusercontent.com/93091784/233370395-8cda0f54-2184-42f8-9fb3-bc47b17a9c42.PNG)
 ![e2](https://user-images.githubusercontent.com/93091784/233370406-cd2e7ce0-41cf-46c7-8277-138dd0a4ab6c.PNG)
 ![e3](https://user-images.githubusercontent.com/93091784/233370413-dbade92a-5265-454d-997f-fa69e42c9b3b.PNG)
 ![e4](https://user-images.githubusercontent.com/93091784/233370420-d2cc8e43-8409-41c0-8707-fdd6c1995d7a.PNG)
