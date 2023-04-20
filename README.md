@@ -10,6 +10,10 @@ Projeme ait ekran görüntüleri
 ![e6](https://user-images.githubusercontent.com/93091784/233370451-809ef1a3-4d28-4ef3-bb1c-fbbfb643b667.PNG)
 ![e7](https://user-images.githubusercontent.com/93091784/233370473-940d123c-f6f0-4020-a0ad-a0bea69ce60f.PNG)
 ![e8](https://user-images.githubusercontent.com/93091784/233370480-5357d1b0-bef7-4b51-b4c2-79f093f826bd.PNG)
+![e12](https://user-images.githubusercontent.com/93091784/233386450-47e714a2-87be-43be-81a7-318c40145bf5.PNG)
+![e13](https://user-images.githubusercontent.com/93091784/233386458-f0dbd7a6-1f73-48c8-9c5e-d9451f37ba93.PNG)
+![e14](https://user-images.githubusercontent.com/93091784/233386472-83470c33-da25-4175-bd52-de53a49329dd.PNG)
+
 ![e9](https://user-images.githubusercontent.com/93091784/233370488-34a140ba-42d3-4540-95e7-d7ee6a3b65b4.PNG)
 ![e10](https://user-images.githubusercontent.com/93091784/233370494-efed7509-9333-4a2e-8025-974ec9f29bba.PNG)
 ![e11](https://user-images.githubusercontent.com/93091784/233370500-94b00d68-c361-4a12-a002-498f62572569.PNG)
